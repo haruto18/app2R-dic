@@ -2,10 +2,10 @@
 
 <widget xmlns  = "https://www.w3.org/ns/widgets"
 xmlns: gap = "http://phonegap.com/ns/1.0"
-id    = "com.phonegap.app1R-dic"
+id    = "com.phonegap.app2R-dic"
 version  = "1.0.0">
 
-<name> app1-R Especialidad Tecnico en Programación </name>
+<name> app2-R aplicacion para niños </name>
 
 <description>
   Las 7 Regiones del Estado de Puebla
